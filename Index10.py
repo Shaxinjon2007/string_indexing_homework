@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    x=s[-1]
+    return x
+print(main("python"))
